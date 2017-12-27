@@ -17,7 +17,7 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.kt.ktwearablecalliphone</string>
+        <string>com.dki.wearablecall</string>
         <key>bundle-version</key>
         <string>01.00.01</string>
         <key>kind</key>
