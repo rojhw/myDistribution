@@ -17,13 +17,13 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>KiaRedMembers.apk</string>
+        <string>com.kt.ktwearablecalliphone</string>
         <key>bundle-version</key>
         <string>01.00.01</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>kiaRedMembers</string>
+        <string>KtWerableCall</string>
       </dict>
     </dict>
   </array>
